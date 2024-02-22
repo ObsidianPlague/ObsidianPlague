@@ -4,4 +4,4 @@ Thanks for stopping by--right now I don't have much to show, but stop by later a
 
 ## Did you know?
 
-Play ```de_wtc``` today, the best CS 1.6 map for less!
+You will die one day and there is nothing you can do to stop it.
