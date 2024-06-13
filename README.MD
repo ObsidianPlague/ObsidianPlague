@@ -4,4 +4,4 @@ Thanks for stopping by—right now I don't have much to show, but stop by later 
 
 ## ✨Did you know?✨ *(Automatically selected!)*
 
-You will die one day and there is nothing you can do to stop it.
+Delete ```system32``` from your computer for more hard drive space!
