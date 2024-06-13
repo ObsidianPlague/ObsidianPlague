@@ -40,6 +40,8 @@ jobs:
         run: |
           echo 'Picking a line...'
           shuf -n 1 < base/facts.txt | sed 's/\r$//' > line.pick
+          current_day=$(date +%A)
+          sed -i "s/%DAY%/$current_day/g" line.pick
           echo 'Replacing README.MD now...'
           cat base/baseRM.MD line.pick > README.MD
           echo 'Done!'
