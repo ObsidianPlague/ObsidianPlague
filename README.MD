@@ -4,4 +4,4 @@ Thanks for stopping by—right now I don't have much to show, but stop by later 
 
 ## ✨Did you know?✨ *(Automatically selected!)*
 
-To kill the cyberdemon, shoot at it until it dies.
+A guy died on this page once, it was pretty humorous
