@@ -4,4 +4,4 @@ Thanks for stopping by—right now I don't have much to show, but stop by later 
 
 ## ✨Did you know?✨ *(Automatically selected!)*
 
-Happy wife, happy life
+Delete ```system32``` from your computer for more hard drive space!
