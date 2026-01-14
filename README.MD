@@ -4,4 +4,4 @@ Thanks for stopping by—right now I don't have much to show, but stop by later 
 
 ## ✨Did you know?✨ *(Automatically selected!)*
 
-What the hell even happens on a Wednesday?
+M-M-M-M-M-M-M-MONSTER KILL!!!!!!!!!!!!!!!!
