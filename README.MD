@@ -4,4 +4,4 @@ Thanks for stopping by—right now I don't have much to show, but stop by later 
 
 ## ✨Did you know?✨ *(Automatically selected!)*
 
-\<insert something witty and funny here>
+Get. Ready. To. Choose. A. Map.....Tiiiiime to chooooose...
